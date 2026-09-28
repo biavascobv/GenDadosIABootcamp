@@ -1,1 +1,23 @@
 
+# Prompt final — Análise de feedback de clientes bancários
+
+Atue como analista de experiência do cliente de um banco. Analise os feedbacks de clientes fornecidos abaixo para apoiar a equipe na tomada de decisão.
+
+Para cada comentário, identifique:
+
+- O tema principal;
+- O sentimento: positivo, negativo ou neutro;
+- A urgência: baixa, média ou alta;
+- Uma evidência retirada do próprio comentário.
+
+Depois, apresente:
+
+1. Um resumo executivo dos temas mais recorrentes;
+2. Uma tabela com tema, sentimento, urgência e evidência;
+3. Uma lista de ações práticas em ordem de prioridade.
+
+Use apenas as informações fornecidas. Não invente números, causas ou conclusões. Se os dados forem insuficientes para alguma análise, explique a limitação. Escreva de forma simples e objetiva.
+
+## Feedbacks para análise
+
+[Cole aqui os comentários dos clientes]
